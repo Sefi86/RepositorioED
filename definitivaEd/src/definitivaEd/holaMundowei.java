@@ -9,6 +9,7 @@ public class holaMundowei {
 		System.out.println("Que tal?");
 		System.out.println("nuevas modificaciones");
 		System.out.println("otras modificaciones");
+		System.out.println(2+2);
 	}
 
 }
